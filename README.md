@@ -1,2 +1,3 @@
 # learn2017-2-9
-self-test
+test
+continue LPHW 32
